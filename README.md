@@ -22,7 +22,6 @@ with 2,671% ROI.
 - `sample_data.csv` - Sample dataset (100 rows)
 - `Presentationf.pptx` - Executive presentation
 - `Dashboard.pbix` - Power BI dashboard
-- - Screenshots/ - Project visualizations
 - ## Contact
 **[AbshaFathima]**
 - Email: [Afshafathima338@gmail.com]
