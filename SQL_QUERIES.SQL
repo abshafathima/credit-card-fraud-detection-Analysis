@@ -83,6 +83,7 @@ SELECT
   ROUND((SUM(Is_Fraud) * 100.0) / COUNT(*), 3) as fraud_rate_pct
 FROM "Transaction";
 
+
 RESULTS SUMMARY:
 -- - 284,807 transactions analyzed
 -- - 492 fraud cases identified (0.17% rate)
