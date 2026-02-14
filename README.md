@@ -3,7 +3,7 @@
 Analyzed 284,807 credit card transactions using SQL, Excel, and Power BI. 
 Identified fraud patterns resulting in $1.8M annual savings opportunity 
 with 2,671% ROI.
-| Metric                |      Value    |  
+| Metric                |      Value    | 
 | Transactions Analyzed |    284,807    |
 | Fraud Cases           |   492 (0.17%) |
 | Annualized Exposure   |    $10.97M    |
@@ -22,7 +22,10 @@ with 2,671% ROI.
 - `Data` - Sample of ExcelSheet
 - `Presentationf.pptx` - Executive presentation
 - `Visualization` - Sample of Dashboard
+- ## Business Impact
+- Recommended implementation of automated fraud detection system targetting high risk transaction patterns, with potential to reduce fraud losses by $1.8M annually while maintaining 99% legitimate transaction approval rate.
 - ## Contact
 **[AbshaFathima]**
 - Email: [Afshafathima338@gmail.com]
+- Linkedin:www.linkedin.com/in/Absha-Fathima786 
   
