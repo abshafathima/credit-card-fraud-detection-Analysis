@@ -19,9 +19,9 @@ with 2,671% ROI.
 - **Power BI** - Interactive dashboards, DAX measures
 - ## Repository Contents
 - `SQL_Queries.sql` - 5 production SQL queries
-- `sample_data.csv` - Sample dataset (100 rows)
+- `Data` - Sample of ExcelSheet
 - `Presentationf.pptx` - Executive presentation
-- `Dashboard.pbix` - Power BI dashboard
+- `Visualization` - Sample of Dashboard
 - ## Contact
 **[AbshaFathima]**
 - Email: [Afshafathima338@gmail.com]
